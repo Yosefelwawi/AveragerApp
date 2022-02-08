@@ -3,6 +3,7 @@
 // GLOBAL VARIABLES
 // None allowed
 
+// länk till git repo: https://github.com/Yosefelwawi/AveragerApp
 
 
 
